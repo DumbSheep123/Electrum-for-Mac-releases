@@ -3,12 +3,23 @@
     <channel>
         <title>Electrum for Mac</title>
         <item>
+            <title>5.0.1</title>
+            <pubDate>Tue, 29 Sep 2026 15:19:01 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>5.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.1/Electrum-5.0.1.zip" length="11273599" type="application/octet-stream" sparkle:edSignature="Em4Bs4USxt110emt2Ag0jbn8J7ZX+tWRAUXRT1qVygbDFXNR6hVRZT8KylkqXwfpCsgh6ZxsJ6vur1ZuWPsYBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.1/Electrum%20for%20Mac2-1.delta" sparkle:deltaFrom="1" length="495866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ju+2KYXzWO+eDnyHOfZALgLtLl2jyIQTVcIrZ10Ygm10U8Uarxaj1om5pZryv7yT4ZaEwhy/rsElWdhBHSzHDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.0.0</title>
             <pubDate>Tue, 29 Sep 2026 13:56:53 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.0/Electrum-5.0.0.zip" length="11262960" type="application/octet-stream" sparkle:edSignature="HwJh7WI0ORj6DihRoaXaeUXDxcoGpHZS1BMbRhh8yqCm1W13Q52mdV5D0MdR1CfovjnK5XOjJ1QghZXDFnzQCg=="/>
+            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.1/Electrum-5.0.0.zip" length="11262960" type="application/octet-stream" sparkle:edSignature="HwJh7WI0ORj6DihRoaXaeUXDxcoGpHZS1BMbRhh8yqCm1W13Q52mdV5D0MdR1CfovjnK5XOjJ1QghZXDFnzQCg=="/>
         </item>
     </channel>
 </rss>
