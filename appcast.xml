@@ -10,9 +10,9 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum-5.0.3.zip" length="11690034" type="application/octet-stream" sparkle:edSignature="Ffxe+/jwqjNaPLBJLHfqi9Q2J0eQ+tA6E1UoBrodwbI0bD/VZi4kBPdEEdPlSMgBlC79knSJYiZot7eLpXjlAg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum%20for%20Mac4-3.delta" sparkle:deltaFrom="3" length="1170294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sa2BY72pj0lgMwV6oMPa3Ob348sMzUbVglcqyre/12TpUDixsk6xlT77n6I0HDnJb8QTGzB17iEU+m/E1EbcDQ=="/>
-                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum%20for%20Mac4-2.delta" sparkle:deltaFrom="2" length="1170774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v43elYM28YLLO0ftsXtJpj/FIOXZ+17s1vCTd5mP8TY0TLof6hhu+VFWgqhQwRWA1kjI8GPYz7989tmMmmdFCg=="/>
-                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum%20for%20Mac4-1.delta" sparkle:deltaFrom="1" length="1241634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lb2uF52s2beFzlHA0kIfm8bDTtijnq8zv5nC/F3qcBjot1HM5lJ3mPEheqobxUoRn3pumQZeH1gJ0u3NJOnTCg=="/>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum.for.Mac4-3.delta" sparkle:deltaFrom="3" length="1170294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sa2BY72pj0lgMwV6oMPa3Ob348sMzUbVglcqyre/12TpUDixsk6xlT77n6I0HDnJb8QTGzB17iEU+m/E1EbcDQ=="/>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum.for.Mac4-2.delta" sparkle:deltaFrom="2" length="1170774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v43elYM28YLLO0ftsXtJpj/FIOXZ+17s1vCTd5mP8TY0TLof6hhu+VFWgqhQwRWA1kjI8GPYz7989tmMmmdFCg=="/>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum.for.Mac4-1.delta" sparkle:deltaFrom="1" length="1241634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lb2uF52s2beFzlHA0kIfm8bDTtijnq8zv5nC/F3qcBjot1HM5lJ3mPEheqobxUoRn3pumQZeH1gJ0u3NJOnTCg=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -21,7 +21,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>5.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum-5.0.2.zip" length="11287873" type="application/octet-stream" sparkle:edSignature="isgq17TmZTIrmzNPseCGsMpPZ7GCbh6wKdvDAxKeYcUDhF3Gy5eIvOuNjbgC3N8fQKV6eLgfvvPsaRc9B7KPDg=="/>
+            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.2/Electrum-5.0.2.zip" length="11287873" type="application/octet-stream" sparkle:edSignature="isgq17TmZTIrmzNPseCGsMpPZ7GCbh6wKdvDAxKeYcUDhF3Gy5eIvOuNjbgC3N8fQKV6eLgfvvPsaRc9B7KPDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.2/Electrum%20for%20Mac3-2.delta" sparkle:deltaFrom="2" length="608334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R2wDaVBpF6dJuMnrXN7iy5aiSvTS6STMlTWXz5pEcPKGBerhSiWFRdVxz7u24jmH6NgV82fabp6iZf4LtHSRAA=="/>
                 <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.2/Electrum%20for%20Mac3-1.delta" sparkle:deltaFrom="1" length="639666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x1DfzqsQySHAN4f/pW9qA47ucnt+ACZXSOg+dqsVg/l7aT6RGZyJKpBmoG+CAnTn7dwZDcj5Z8p8+TEjI1lLBA=="/>
@@ -33,7 +33,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>5.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum-5.0.1.zip" length="11273599" type="application/octet-stream" sparkle:edSignature="Em4Bs4USxt110emt2Ag0jbn8J7ZX+tWRAUXRT1qVygbDFXNR6hVRZT8KylkqXwfpCsgh6ZxsJ6vur1ZuWPsYBg=="/>
+            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.1/Electrum-5.0.1.zip" length="11273599" type="application/octet-stream" sparkle:edSignature="Em4Bs4USxt110emt2Ag0jbn8J7ZX+tWRAUXRT1qVygbDFXNR6hVRZT8KylkqXwfpCsgh6ZxsJ6vur1ZuWPsYBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.1/Electrum%20for%20Mac2-1.delta" sparkle:deltaFrom="1" length="495866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ju+2KYXzWO+eDnyHOfZALgLtLl2jyIQTVcIrZ10Ygm10U8Uarxaj1om5pZryv7yT4ZaEwhy/rsElWdhBHSzHDw=="/>
             </sparkle:deltas>
@@ -44,7 +44,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.3/Electrum-5.0.0.zip" length="11262960" type="application/octet-stream" sparkle:edSignature="HwJh7WI0ORj6DihRoaXaeUXDxcoGpHZS1BMbRhh8yqCm1W13Q52mdV5D0MdR1CfovjnK5XOjJ1QghZXDFnzQCg=="/>
+            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.0/Electrum-5.0.0.zip" length="11262960" type="application/octet-stream" sparkle:edSignature="HwJh7WI0ORj6DihRoaXaeUXDxcoGpHZS1BMbRhh8yqCm1W13Q52mdV5D0MdR1CfovjnK5XOjJ1QghZXDFnzQCg=="/>
         </item>
     </channel>
 </rss>
