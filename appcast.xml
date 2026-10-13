@@ -3,6 +3,20 @@
     <channel>
         <title>Electrum for Mac</title>
         <item>
+            <title>5.0.4</title>
+            <pubDate>Mon, 12 Oct 2026 22:26:34 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>5.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.4/Electrum-5.0.4.zip" length="11712718" type="application/octet-stream" sparkle:edSignature="wXCBPgf4NC+L9QkleGi94H/qtZXg+2EjGVYyaRv9d5Iq1NbLPs4z/xjp8wZhn3L9CbonINyDTHfpvEcoN9+wBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.4/Electrum.for.Mac5-4.delta" sparkle:deltaFrom="4" length="628526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OUdwpUvioyLVxYYjVCjmZzZhtLeka7VP+RzVf3q2oPQOOGwOewE09RXBoKf1NncDpB90ZsYg9CO30W1AtCFIDQ=="/>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.4/Electrum.for.Mac5-3.delta" sparkle:deltaFrom="3" length="1221222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OjW7ON06Dnn3yWCpJR7lxsdIf1HI1eMahg8Et8IkkpY7vTIzf9oM7JpQyvk9legsOL9YdH+3IDkLlB8OMRJCCA=="/>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.4/Electrum.for.Mac5-2.delta" sparkle:deltaFrom="2" length="1267790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n/tF3qadpgF1zXRflCUfHJbvzmTJfAEO7/Se9nqpKTouWK6vytXcYJOVD8jmzn7F24YafH+CqipQh5Az4qE0Cw=="/>
+                <enclosure url="https://github.com/DumbSheep123/Electrum-for-Mac-releases/releases/download/v5.0.4/Electrum.for.Mac5-1.delta" sparkle:deltaFrom="1" length="1287390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9sdj/US6D3bNxe0b82riDCy+9odeMF1RLQH0cCGDa9FvH4il3G46zJpL2MrQFswgoc7OhVRmE15IDAqhIdDPBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>5.0.3</title>
             <pubDate>Mon, 12 Oct 2026 19:06:37 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
